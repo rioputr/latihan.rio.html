@@ -1,4 +1,0 @@
-class
-public class pemainfutsal {
-    
-}
